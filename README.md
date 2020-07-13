@@ -1,5 +1,4 @@
-## LacertosusDeus 🏂
-
+## About
 I code jailbreak tweaks for fun.
 
 ### Main Projects:
