@@ -1,16 +1,13 @@
-### Hi there 👋
+## LacertosusDeus 🏂
 
-<!--
-**LacertosusRepo/LacertosusRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code jailbreak tweaks for fun.
 
-Here are some ideas to get you started:
+### Main Projects:
+* [NowPlayingIcon](https://repo.packix.com/package/com.lacertosusrepo.nowplayingicon/) - Use the music artwork as the icon for whatever app is playing
+* [Libellum](https://lacertosusrepo.github.io/depictions/com.lacertosusrepo.libellum/) - Take notes on your lockscreen and in your notification center
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Points:
+* [Twitter](https://twitter.com/LacertosusDeus)
+* [Email](mailto:LacertosusThemes@gmail.com)
+* [Reddit](https://www.reddit.com/user/Bezerk_Jesus)
+
