@@ -1,5 +1,5 @@
 | **What's Playing?** | **Stats** |
-| - | - |
+| :- | :- |
 | [![](https://spotify-github-profile.vercel.app/api/view?uid=bezerk_jesus&cover_image=true&theme=default&bar_color=aabca9&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bezerk_jesus&redirect=true) | ![](https://github-readme-stats.vercel.app/api?username=LacertosusRepo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=LacertosusRepo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
   
 ## About Me
