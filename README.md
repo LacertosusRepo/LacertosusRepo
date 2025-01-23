@@ -13,7 +13,7 @@ I code jailbreak tweaks for fun. Occasionally.
 ## Issue or Request?
 Create a GitHub issue [here](https://github.com/LacertosusRepo/LacertosusRepo.github.io/issues/new/choose).
 
-## Where Am I?
+## Where to Find Me?
 [<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/Bezerk_Jesus)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:LacertosusThemes@gmail.com)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/LacertosusDeus)
+[<img src="https://img.shields.io/badge/Bluesky-3686f7?style=for-the-badge&logo=bluesky&logoColor=white">](https://bsky.app/profile/lacertosusrepo.github.io)
